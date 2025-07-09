@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Maruthu Devendrar" width="800">
+  <img src="" alt="Maruthu Devendrar" width="800">
 </p>
 
 <!-- Typing Effect -->
