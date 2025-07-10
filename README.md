@@ -27,25 +27,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu-04&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maruthu-04&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maruthu04&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu-04&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maruthu-04&theme=onedark&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maruthu04&theme=onedark&margin-w=10)
 
 ---
 
 ### 📉 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maruthu-04&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maruthu04&theme=react-dark&hide_border=true)
 
 ---
 
