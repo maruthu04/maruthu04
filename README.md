@@ -62,7 +62,7 @@
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=maruthu04&theme=react-dark&hide_border=true" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maruthu04&theme=react-dark)
 </p>
 
 ---
