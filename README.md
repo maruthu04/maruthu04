@@ -1,8 +1,6 @@
-<h1 align="center">Hi there, I'm Maruthu Devendrar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+### Hi there, I'm Maruthu Devendrar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=500&lines=Full-Stack+Web+Developer+here!;Crafting+Modern+Web+Apps;Passionate+About+Tech+%26+Open-Source;Let's+Build+Together!+💻🚀" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+developer!;I+love+coding+and+learning!;Let's+connect+and+collaborate!)
 
 ---
 
@@ -38,75 +36,49 @@
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maruthu04&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maruthu04&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maruthu04&theme=onedark&margin-w=10&no-frame=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
+### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=maruthu04&theme=react-dark&hide_border=true" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maruthu04&theme=onedark&margin-w=10)
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
+### 📈 GitHub Contribution Calendar
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maruthu04/maruthu04/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+![GitHub Contribution Calendar](https://github-contribution-graph.vercel.app/api?username=maruthu04&theme=react-dark)
 
 ---
 
-## 🔗 Let's Connect & Collaborate
+### 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-## 💬 Quote of the Day
+### 💬 Quote of the Day
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## ☕ Support My Work
+### 💖 Support My Work
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
 
 ---
 
-<p align="center"><b>Thank you for visiting my profile! Let’s code something amazing together! 🚀</b></p>
+**Thanks for visiting my profile!** 😊🚀
