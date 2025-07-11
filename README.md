@@ -61,14 +61,7 @@
 
 ##Github contribution 
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maruthu04&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maruthu04&theme=react-dark&hide_border=true)
 
 ---
 
