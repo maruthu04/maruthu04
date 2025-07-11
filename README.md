@@ -59,9 +59,19 @@
 
 ---
 
-##Github contribution 
+## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maruthu04&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=maruthu04&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maruthu04/maruthu04/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
