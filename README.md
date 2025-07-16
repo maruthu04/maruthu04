@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 Final Year B.E (ECS) Student | CGPA: **9.10**
+- 👨‍🎓 Final Year B.E (ECS) Student | CGPA: **8.60**
 - 🌐 Full-Stack Web Developer (MERN & Java Stack)
 - 💡 Exploring Python & AI to supercharge web apps
 - 🔥 Passionate about **building real-world solutions**
