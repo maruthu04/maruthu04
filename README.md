@@ -59,13 +59,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maruthu04/maruthu04/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
 
 ## 🔗 Let's Connect & Collaborate
 
