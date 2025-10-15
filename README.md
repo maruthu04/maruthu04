@@ -13,7 +13,6 @@
 - 🧠 I am learning **Python & AI** to make web applications better.
 - 🔨 I enjoy **solving problems in the real-world.**
 - 🎨 I enjoy **UI/UX, clean architecture, and scalability.**
-- ✍️ I would like to contribute to open-source and write technical blogs by **2025.**
 - ☕ Fun fact: I love coffee for **productivity.**
 
 ---
