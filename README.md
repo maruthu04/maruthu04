@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a Bachelor's degree in Electronics & Computer Science | CGPA: **8.60**
+- 🎓 Pursuing a Bachelor's degree in Electronics & Computer Science | CGPA: **8.91**
 - 🌐 I am a Full-Stack Developer with expertise in the MERN Stack and Java ecosystem.
 - 🧠 I am learning **Python & AI** to make web applications better.
 - 🔨 I enjoy **solving problems in the real-world.**
