@@ -8,13 +8,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.E. in Electronics & Computer Science (ECS) | CGPA: **8.60**
-- 🌐 Full-Stack Developer (MERN & Java Ecosystem)
-- 🧠 Exploring **Python & AI** to enhance web applications
-- 🔨 Passionate about **real-world problem solving**
-- 🎨 Focus on **clean architecture, UI/UX, and scalability**
-- ✍️ 2025 Goals: Contribute to open-source & publish technical blogs
-- ☕ Fun Fact: Coffee = Productivity Booster
+- 🎓 Pursuing a Bachelor's degree in Electronics & Computer Science | CGPA: **8.60**
+- 🌐 I am a Full-Stack Developer with expertise in the MERN Stack and Java ecosystem.
+- 🧠 I am learning **Python & AI** to make web applications better.
+- 🔨 I enjoy **solving problems in the real-world.**
+- 🎨 I enjoy **UI/UX, clean architecture, and scalability.**
+- ✍️ I would like to contribute to open-source and write technical blogs by **2025.**
+- ☕ Fun fact: I love coffee for **productivity.**
 
 ---
 
