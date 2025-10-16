@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&cache_seconds=60&v=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&cache_seconds=60&v=2" />
 </p>
 
 ---
@@ -49,10 +49,8 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maruthu04&theme=onedark&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maruthu04&theme=onedark&margin-w=10&no-frame=true&row=1&column=6&no-bg=true&cache_seconds=60&v=2" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
