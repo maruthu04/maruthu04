@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&cache_seconds=60&v=2" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&cache_seconds=60&v=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&cache_seconds=60&v=3" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&exclude_repo=frontend-projects" />
 </p>
 
 ---
