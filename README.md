@@ -42,12 +42,12 @@
 <p align="center">
   <img 
     width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=${new Date().getTime()}" 
+    src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=4" 
     alt="GitHub Stats"
   />
   <img 
     width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&v=${new Date().getTime()}" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&v=4" 
     alt="Top Languages"
   />
 </p>
