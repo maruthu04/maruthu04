@@ -24,13 +24,13 @@ I am a final-year **Electronics & Computer Science** undergraduate with a strong
 
 My focus lies in engineering robust, scalable web applications that solve real-world problems. I am passionate about clean software architecture, intuitive UI/UX, and performance optimization.
 
-* 🌱 **Current Focus:** integrating Artificial Intelligence into modern web architectures.
+* 🌱 **Current Focus:** Integrating Artificial Intelligence into modern web architectures.
 * 🔭 **Seeking:** Opportunities to contribute to innovative software engineering teams.
-* 💬 **Ask me about:** React.js, System Design, and Full-Stack Development.
+* 💬 **Ask me about:** React.js, System Design, and Cloud Deployment.
 
 ---
 
-### 🚀 Technical Arsenal
+### 🛠️ Technical Arsenal
 
 <table align="center">
   <tr>
@@ -89,6 +89,24 @@ My focus lies in engineering robust, scalable web applications that solve real-w
 
 ---
 
+### 🧩 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Creator Support Platform** | A scalable crowdfunding platform similar to "Buy Me a Coffee". Features real-time payments, user dashboards, and content feeds. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) |
+| **Personal Portfolio** | A modern, responsive developer portfolio showcasing projects and blogs with high-performance animations. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) |
+| **Smart Fitness Planner** | An interactive web application for tracking workouts and diet plans with a custom dashboard. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
+
+---
+
+### ⚡ My Coding Philosophy
+
+- **Clean Architecture:** I believe code should be as readable as it is functional.
+- **User-Centric:** Performance and accessibility are not optional; they are the foundation.
+- **Continuous Learning:** Technology moves fast, and I move with it.
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -99,17 +117,8 @@ My focus lies in engineering robust, scalable web applications that solve real-w
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maruthu04&theme=onedark&margin-w=10&no-frame=true&row=1&column=6&no-bg=true&cache_seconds=60&v=2" alt="trophy" />
-</div>
-
----
-
-### ☕ Let's Connect
-
-<div align="center">
-  <p><i>"The only way to do great work is to love what you do."</i></p>
-  <br>
-  <a href="https://www.buymeacoffee.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  <i>Let's build something impactful together.</i><br>
+  <a href="https://linkedin.com/in/maruthudevendrar">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
