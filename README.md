@@ -10,7 +10,7 @@
     <a href="https://maruthu-devendrar.in" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:maruthudevendrar@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
