@@ -107,12 +107,13 @@ My focus lies in engineering robust, scalable web applications that solve real-w
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 What I'm Learning Next
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&v=4" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800&v=4" height="150" alt="languages graph" />
-</div>
+I believe that the best engineers never stop learning. Currently, I am expanding my skillset in:
+
+* **Microservices Architecture:** Moving beyond monoliths using **Spring Boot** and **Docker**.
+* **AI Engineering:** Building RAG (Retrieval-Augmented Generation) pipelines with **LangChain**.
+* **Cloud Native:** Deploying scalable applications on **AWS** and **Kubernetes**.
 
 <br/>
 
