@@ -1,105 +1,145 @@
-# 👋 Hi, I’m Maruthu
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Maruthu+Devendrar+👋;Full-Stack+Engineer+%7C+Java+%26+MERN;Building+Scalable+Web+Systems;Merging+AI+with+Web+Development" alt="Typing SVG" />
 
-**Full-Stack Web Developer | Building clean, scalable web applications**
+  <p>
+    <b>Electronics & Computer Science Major | CGPA: 8.91</b>
+  </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-maruthu04-black?style=for-the-badge&logo=github)](https://github.com/maruthu04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
-
+  <p>
+    <a href="https://linkedin.com/in/maruthudevendrar">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://maruthu-devendrar.in">
+      <img src="https://img.shields.io/badge/Website-Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+    <a href="mailto:maruthudevendrar@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I’m a **full-stack web developer** focused on building **modern, performant, and user-centric applications** using today’s best web technologies.  
-I learn by building real products and continuously improving code quality, architecture, and UX.
+> *"I treat code like engineering: it must be robust, scalable, and built to last."*
+
+I am a final-year student bridging the gap between **System Architecture** and **Modern Web Development**. My expertise lies in building complete digital ecosystems—from the database schema to the user interface—often integrated with **AI/ML** capabilities.
+
+* 🔭 **Working on:** Cloud-native microservices and RAG pipelines.
+* 🤝 **Collaborate on:** Complex React Applications & Java Spring Boot Systems.
+* 🌱 **Learning:** Kubernetes & Advanced System Design.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧩 Featured Engineering
+
+| Project & Concept | Tech Stack | Type |
+| :--- | :--- | :--- |
+| **☕ Creator Support Platform**<br>A crowdfunding ecosystem with real-time payment processing and content feeds. Designed to handle high-concurrency transactions. | ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) | **Full Stack** |
+| **⚡ Personal Portfolio**<br>A high-performance digital resume featuring advanced framer motion animations and optimized rendering strategies. | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) | **Frontend** |
+| **🔗 ZipLink (URL Shortener)**<br>A high-performance link management service featuring custom aliasing, QR code generation, and click analytics. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | **Backend System** |
+
+---
+
+### 📈 GitHub Analytics
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&count_private=true" height="150" alt="languages graph" />
 </div>
 
----
-
-## 📌 Featured Projects
-
-### 🔐 PassVault
-A modern password manager built with React and Tailwind CSS.
-
-- Local password storage
-- Copy, edit, delete, search
-- Toast notifications & clean UI
-
-📂 Repo: *(add link)*  
-🌐 Live: *(add link)*
-
----
-
-### 🔗 ZipLink
-A privacy-focused URL shortener built using **Next.js 15** and **MongoDB**.
-
-- Fast redirection
-- URL validation
-- Custom alias support
-- SaaS-style UI
-
-🌐 Live: https://zip-link-maruthu04.vercel.app  
-📂 Repo: https://github.com/maruthu04/zip-link
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
+  <a href="https://linkedin.com/in/maruthudevendrar">
+    <img src="https://img.shields.io/badge/Let's_Work_Together-Click_Here-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=maruthu04&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🧠 Currently Learning
-
-- Advanced Next.js patterns
-- Backend performance optimization
-- Scalable system design
-- Authentication & dashboards
-
----
-
-## 🤝 Connect With Me
-
-- 🌐 GitHub: https://github.com/maruthu04
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(add email)*
-
----
-
-## ⭐ Support
-
-If you find my work helpful, consider giving a ⭐ to my repositories.  
-It helps more than you think and keeps me motivated to build better things 🚀
-
