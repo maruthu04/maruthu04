@@ -1,32 +1,34 @@
 <div align="center">
-  <h1>Hi there, I'm Maruthu Devendrar 👋</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Electronics+%26+Computer+Science+Major;Building+Scalable+Web+Solutions;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Maruthu+Devendrar+👋;Full-Stack+Engineer+%7C+Java+%26+MERN;Building+Scalable+Web+Systems;Merging+AI+with+Web+Development" alt="Typing SVG" />
 
   <p>
-    <a href="https://linkedin.com/in/maruthudevendrar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <b>Electronics & Computer Science Major | CGPA: 8.91</b>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/maruthudevendrar">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://maruthu-devendrar.in" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <a href="https://maruthu-devendrar.in">
+      <img src="https://img.shields.io/badge/Website-Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
     <a href="mailto:maruthudevendrar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 Professional Profile
+### 🚀 About Me
 
-I am a final-year **Electronics & Computer Science** undergraduate with a strong academic record (**CGPA: 8.91**). As a **Full-Stack Developer**, I specialize in the **MERN Stack** and the **Java ecosystem**, with a growing proficiency in Python for AI integration.
+> *"I treat code like engineering: it must be robust, scalable, and built to last."*
 
-My focus lies in engineering robust, scalable web applications that solve real-world problems. I am passionate about clean software architecture, intuitive UI/UX, and performance optimization.
+I am a final-year student bridging the gap between **System Architecture** and **Modern Web Development**. My expertise lies in building complete digital ecosystems—from the database schema to the user interface—often integrated with **AI/ML** capabilities.
 
-* 🌱 **Current Focus:** Integrating Artificial Intelligence into modern web architectures.
-* 🔭 **Seeking:** Opportunities to contribute to innovative software engineering teams.
-* 💬 **Ask me about:** React.js, System Design, and Cloud Deployment.
+* 🔭 **Working on:** Cloud-native microservices and RAG pipelines.
+* 🤝 **Collaborate on:** Complex React Applications & Java Spring Boot Systems.
+* 🌱 **Learning:** Kubernetes & Advanced System Design.
 
 ---
 
@@ -34,92 +36,70 @@ My focus lies in engineering robust, scalable web applications that solve real-w
 
 <table align="center">
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java,spring" perline="2" />
+      <br><b>Backend Core</b>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react,next,redux" perline="3" />
+      <br><b>Frontend</b>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" perline="3" />
+      <br><b>AI & ML</b>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" perline="4" />
+      <br><b>MERN / DB</b>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git,docker,aws" perline="3" />
+      <br><b>DevOps</b>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Featured Engineering
 
-| Project | Description | Tech Stack |
+| Project & Concept | Tech Stack | Type |
 | :--- | :--- | :--- |
-| **Creator Support Platform** | A scalable crowdfunding platform similar to "Buy Me a Coffee". Features real-time payments, user dashboards, and content feeds. | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) |
-| **Personal Portfolio** | A modern, responsive developer portfolio showcasing projects and blogs with high-performance animations. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) |
-| **Smart Fitness Planner** | An interactive web application for tracking workouts and diet plans with a custom dashboard. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
+| **☕ Creator Support Platform**<br>A crowdfunding ecosystem with real-time payment processing and content feeds. Designed to handle high-concurrency transactions. | ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) | **Full Stack** |
+| **⚡ Personal Portfolio**<br>A high-performance digital resume featuring advanced framer motion animations and optimized rendering strategies. | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) | **Frontend** |
+| **🏋️ Smart Fitness Planner**<br>An intelligent workout tracking system that visualizes progress and manages diet plans using data-driven insights. | ![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white) | **Web App** |
 
 ---
 
-### ⚡ My Coding Philosophy
+### 🧭 Roadmap & Philosophy
 
-- **Clean Architecture:** I believe code should be as readable as it is functional.
-- **User-Centric:** Performance and accessibility are not optional; they are the foundation.
-- **Continuous Learning:** Technology moves fast, and I move with it.
-
----
-
-### 🚀 What I'm Learning Next
-
-I believe that the best engineers never stop learning. Currently, I am expanding my skillset in:
-
-* **Microservices Architecture:** Moving beyond monoliths using **Spring Boot** and **Docker**.
-* **AI Engineering:** Building RAG (Retrieval-Augmented Generation) pipelines with **LangChain**.
-* **Cloud Native:** Deploying scalable applications on **AWS** and **Kubernetes**.
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🧠 Coding Philosophy</h3>
+        <ul>
+          <li><b>Clean Architecture:</b> Code is read more than it is written. Readability is priority #1.</li>
+          <li><b>User-Centric:</b> Performance is not a feature; it is a requirement.</li>
+          <li><b>Adaptability:</b> Technology moves fast. I move faster.</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🎯 Learning Next</h3>
+        <ul>
+          <li><b>Microservices:</b> Breaking monoliths with <code>Spring Boot</code> & <code>Docker</code>.</li>
+          <li><b>AI Engineering:</b> Building RAG pipelines with <code>LangChain</code>.</li>
+          <li><b>Cloud Native:</b> Scaling on AWS.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 <div align="center">
-  <i>Let's build something impactful together.</i><br>
   <a href="https://linkedin.com/in/maruthudevendrar">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Work_Together-Click_Here-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
