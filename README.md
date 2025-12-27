@@ -129,14 +129,30 @@ I am a final-year student bridging the gap between **System Architecture** and *
 
 ---
 
-### 📈 GitHub Analytics
-
-### 📈 GitHub Analytics
+### 💻 My Dev Environment
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser-Brave-FF1B2D?style=for-the-badge&logo=brave&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/AI_Assistant-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Music-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maruthudevendrar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/maruthudevendrar">
+    <img src="https://img.shields.io/badge/Let's_Work_Together-Click_Here-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <br/>
