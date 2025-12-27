@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Maruthu+Devendrar+👋;Full-Stack+Engineer+%7C+Java+%26+MERN;Building+Scalable+Web+Systems;Merging+AI+with+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Maruthu+Devendrar+👋;Full-Stack+Web+Developer;Problem+Solver+%7C+Lifelong+Learner;Building+Scalable+Web+Systems" alt="Typing SVG" />
 
   <p>
-    <b>Electronics & Computer Science Major | CGPA: 8.91</b>
+    <b>Final-Year B.E. Electronics & Computer Science | CGPA: 8.91</b>
   </p>
 
   <p>
     <a href="https://linkedin.com/in/maruthudevendrar">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/maruthudevendrar">
+      <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://maruthu-devendrar.in">
       <img src="https://img.shields.io/badge/Website-Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -20,15 +23,15 @@
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-> *"I treat code like engineering: it must be robust, scalable, and built to last."*
+> *"Code with clarity. Build with purpose."*
 
-I am a final-year student bridging the gap between **System Architecture** and **Modern Web Development**. My expertise lies in building complete digital ecosystems—from the database schema to the user interface—often integrated with **AI/ML** capabilities.
+I am a final-year student bridging the gap between **System Architecture** and **Modern Web Development**. My goal for 2025 is to build impactful open-source projects and master AI integration.
 
-* 🔭 **Working on:** Cloud-native microservices and RAG pipelines.
-* 🤝 **Collaborate on:** Complex React Applications & Java Spring Boot Systems.
-* 🌱 **Learning:** Kubernetes & Advanced System Design.
+* 🎓 **Background:** B.E. Electronics & Computer Science (ECS).
+* 🔭 **What I Do:** Design end-to-end web apps, build RESTful APIs, and optimize database performance.
+* 🌱 **Current Focus:** Integrating **AI/ML** into web architectures and mastering **System Design**.
 
 ---
 
@@ -103,8 +106,8 @@ I am a final-year student bridging the gap between **System Architecture** and *
       <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
@@ -129,17 +132,19 @@ I am a final-year student bridging the gap between **System Architecture** and *
 
 ---
 
-### 📈 GitHub Analytics
+### 🧠 Developer's Reality
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&count_private=true" height="150" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/maruthudevendrar">
-    <img src="https://img.shields.io/badge/Let's_Work_Together-Click_Here-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+```json
+{
+  "daily_routine": [
+    "Write Clean Code",
+    "Debug Complex Systems",
+    "Learn New Tech",
+    "Push to Main (Carefully)"
+  ],
+  "2025_goals": {
+    "open_source": true,
+    "master_ai": true,
+    "build_impact": "High"
+  }
+}
