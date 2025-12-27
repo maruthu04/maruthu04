@@ -125,33 +125,15 @@ I am a final-year student bridging the gap between **System Architecture** and *
 | :--- | :--- | :--- |
 | **☕ Creator Support Platform**<br>A crowdfunding ecosystem with real-time payment processing and content feeds. Designed to handle high-concurrency transactions. | ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) | **Full Stack** |
 | **⚡ Personal Portfolio**<br>A high-performance digital resume featuring advanced framer motion animations and optimized rendering strategies. | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) | **Frontend** |
-| **🏋️ Smart Fitness Planner**<br>An interactive workout tracking system that visualizes progress and manages diet plans using data-driven insights. | ![Node](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white) | **Web App** |
+| **🔗 ZipLink (URL Shortener)**<br>A high-performance link management service featuring custom aliasing, QR code generation, and click analytics. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | **Backend System** |
 
 ---
 
-### 🧭 Roadmap & Philosophy
+### 📈 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <h3>🧠 Coding Philosophy</h3>
-        <ul>
-          <li><b>Clean Architecture:</b> Code is read more than it is written. Readability is priority #1.</li>
-          <li><b>User-Centric:</b> Performance is not a feature; it is a requirement.</li>
-          <li><b>Adaptability:</b> Technology moves fast. I move faster.</li>
-        </ul>
-      </td>
-      <td valign="top" width="50%">
-        <h3>🎯 Learning Next</h3>
-        <ul>
-          <li><b>Microservices:</b> Breaking monoliths with <code>Spring Boot</code> & <code>Docker</code>.</li>
-          <li><b>AI Engineering:</b> Building RAG pipelines with <code>LangChain</code>.</li>
-          <li><b>Cloud Native:</b> Scaling on AWS.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=radical&hide_border=true&count_private=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
