@@ -224,9 +224,13 @@ A production-ready e-commerce application with complete order management and pay
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maruthu04&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+  
+<img src="https://github-readme-stats-six-pi-74.vercel.app/api?username=maruthu04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-stats-six-pi-74.vercel.app/api?username=maruthu04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B&area=true&area_color=6366F1" alt="Contribution Graph" width="800"/>
+
+<img src="https://github-readme-stats-six-pi-74.vercel.app/api?username=maruthu04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&count_private=true&hide=html,css" alt="Top Languages" height="180"/>
+
 </div>
 
 ---
