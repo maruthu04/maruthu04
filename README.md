@@ -55,7 +55,6 @@ const maruthu: Developer = {
     "Mastering distributed systems & microservices"
   ],
   
-  2025_mission: "Launch 3 impactful open-source projects",
   
   whenNotCoding: ["Reading tech blogs", "Solving DSA problems", "Exploring new frameworks"]
 };
@@ -212,23 +211,7 @@ A production-ready e-commerce application with complete order management and pay
 
 ---
 
-## 🏆 ACHIEVEMENTS & RECOGNITION
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  🥇  2x RANK 1 HACKER  →  CodeXpress 6.0 & 7.0             │
-│  🏆  JAVA CHAMPION     →  Java Jumpstart Workshop          │
-│  🐍  PYTHON CERTIFIED  →  Python Pro Bootcamp              │
-│  🧩  DSA SPECIALIST    →  Data Structures & Algorithms      │
-│  👨‍💼  TEAM LEADER       →  Mini Group Project (2023-24)      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
 
 ### 🎓 Certifications & Training
 
@@ -236,23 +219,17 @@ A production-ready e-commerce application with complete order management and pay
 - **Data Structures & Algorithm Bootcamp** - Prof. Sanjana Khandalgaonkar
 - **Full Stack Web Development** - Self-Directed Learning
 
-### 💪 Competitive Programming
 
-- **CodeXpress 6.0** - Rank 1 🥇
-- **CodeXpress 7.0** - Rank 1 🥇
-- Active problem solver on LeetCode and other platforms
-
----
 
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=maruthudevendrar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maruthu04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maruthudevendrar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maruthu04&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthudevendrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthu04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
 
 </div>
 
@@ -270,20 +247,6 @@ Led a cross-functional team through the complete software development lifecycle:
 - 📈 **Delivery Excellence:** Successfully delivered projects on time with high code quality standards
 
 ---
-
-## 🎯 2025 ROADMAP
-
-```mermaid
-graph LR
-    A[Q1: Master System Design] --> B[Q2: Launch Open Source Project]
-    B --> C[Q3: Deep Dive into AI/ML]
-    C --> D[Q4: Build Production-Scale Apps]
-    
-    style A fill:#6366F1
-    style B fill:#8B5CF6
-    style C fill:#EC4899
-    style D fill:#10B981
-```
 
 **Current Focus Areas:**
 
