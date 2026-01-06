@@ -1,150 +1,332 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Maruthu+Devendrar+👋;Full-Stack+Web+Developer;Problem+Solver+%7C+Lifelong+Learner;Building+Scalable+Web+Systems" alt="Typing SVG" />
+  
+# 💫 MARUTHU DEVENDRAR
 
-  <p>
-    <b>Final-Year B.E. Electronics & Computer Science | CGPA: 8.91</b>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+%7C+System+Architect;Crafting+Scalable+Solutions+%E2%9A%A1;Electronics+%26+Computer+Science+Student;Open+Source+Enthusiast+%F0%9F%8C%90;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <p>
-    <a href="https://linkedin.com/in/maruthudevendrar">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/maruthudevendrar">
-      <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://maruthu-devendrar.in">
-      <img src="https://img.shields.io/badge/Website-Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="mailto:maruthudevendrar@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<br>
+
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║  "Architecture is about the decisions you make,                  ║
+║   not just the code you write."                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/maruthudevendrar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6366F1)](https://maruthu-devendrar.in)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:maruthudevendrar@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/maruthudevendrar)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=maruthudevendrar&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 🎯 ABOUT ME
 
-> *"Code with clarity. Build with purpose."*
+```typescript
+const maruthu: Developer = {
+  identity: {
+    role: "Full-Stack Engineer & System Designer",
+    education: "B.E. Electronics & Computer Science",
+    institution: "Rizvi College of Engineering",
+    cgpa: 8.91,
+    graduation: "June 2026"
+  },
+  
+  location: "Mumbai, Maharashtra 🇮🇳",
+  
+  philosophy: {
+    code: "Write for humans, optimize for machines",
+    design: "Simplicity is the ultimate sophistication",
+    learning: "Stay curious, stay humble"
+  },
+  
+  currentFocus: [
+    "Building production-grade web applications",
+    "Integrating AI/ML into full-stack architectures",
+    "Contributing to open-source projects",
+    "Mastering distributed systems & microservices"
+  ],
+  
+  2025_mission: "Launch 3 impactful open-source projects",
+  
+  whenNotCoding: ["Reading tech blogs", "Solving DSA problems", "Exploring new frameworks"]
+};
+```
 
-I am a final-year student bridging the gap between **System Architecture** and **Modern Web Development**. My goal for 2025 is to build impactful open-source projects and master AI integration.
+### 🚀 What Drives Me
 
-* 🎓 **Background:** B.E. Electronics & Computer Science (ECS).
-* 🔭 **What I Do:** Design end-to-end web apps, build RESTful APIs, and optimize database performance.
-* 🌱 **Current Focus:** Integrating **AI/ML** into web architectures and mastering **System Design**.
+I'm passionate about building **scalable, maintainable systems** that solve real-world problems. My approach combines strong **engineering fundamentals** with modern web technologies. I believe in writing code that's not just functional, but elegant and future-proof.
+
+Currently exploring the intersection of **AI/ML** and **Web Development**, working on projects that leverage both worlds to create intelligent, user-centric applications.
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ TECH STACK & EXPERTISE
 
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-  </tr>
+### **Core Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### **Frontend Ecosystem**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+### **Backend & API Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Database & Storage**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### **AI/ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## 🏗️ FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Creator Support Platform
+**Empowering Creators Through Technology**
+
+A full-stack crowdfunding ecosystem designed to handle high-concurrency payment transactions while maintaining seamless UX.
+
+**Engineering Highlights:**
+- 🔐 Secure payment gateway integration with real-time processing
+- 📊 Dynamic content feed with optimized database queries
+- 🎨 Modern, responsive UI with Next.js 14 App Router
+- ⚡ Server-side rendering for optimal performance
+- 🔄 Real-time updates using optimistic UI patterns
+
+**Tech:** Next.js • MongoDB • Stripe • Tailwind CSS
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 ZipLink - URL Shortener
+**High-Performance Link Management System**
+
+A robust backend service built with Spring Boot, featuring enterprise-grade architecture and analytics.
+
+**Engineering Highlights:**
+- 🎯 Custom URL aliasing with collision detection
+- 📈 Comprehensive click analytics and tracking
+- 🔐 Rate limiting and security measures
+- 📱 QR code generation for mobile accessibility
+- 💾 Optimized database indexing for fast retrieval
+
+**Tech:** Java • Spring Boot • PostgreSQL • Redis
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Personal Finance Manager
+**Smart Financial Decision Support System**
+
+An intuitive platform enabling users to track expenses, set budgets, and visualize spending patterns with actionable insights.
+
+**Engineering Highlights:**
+- 📊 Real-time analytics dashboard with charts
+- 💡 Intelligent budget recommendations
+- 🔄 Automated expense categorization
+- 📱 Responsive design across all devices
+- 🔒 Secure authentication and data encryption
+
+**Tech:** React • Node.js • MongoDB • Chart.js
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍗 KFC Clone
+**End-to-End Food Ordering Platform**
+
+A production-ready e-commerce application with complete order management and payment processing capabilities.
+
+**Engineering Highlights:**
+- 🛒 Dynamic cart with session persistence
+- 💳 Stripe payment integration
+- 🎨 Pixel-perfect responsive design
+- 🔍 Advanced menu filtering and search
+- 📦 Order tracking system
+
+**Tech:** Flask • Python • SQLite • Stripe API
+
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+
+</td>
+</tr>
 </table>
 
----
-
-### 🧩 Featured Engineering
-
-| Project & Concept | Tech Stack | Type |
-| :--- | :--- | :--- |
-| **☕ Creator Support Platform**<br>A crowdfunding ecosystem with real-time payment processing and content feeds. Designed to handle high-concurrency transactions. | ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white) | **Full Stack** |
-| **⚡ Personal Portfolio**<br>A high-performance digital resume featuring advanced framer motion animations and optimized rendering strategies. | ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue) | **Frontend** |
-| **🔗 ZipLink (URL Shortener)**<br>A high-performance link management service featuring custom aliasing, QR code generation, and click analytics. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | **Backend System** |
+</div>
 
 ---
 
-### 🧠 Developer's Reality
+## 🏆 ACHIEVEMENTS & RECOGNITION
 
-```json
-{
-  "daily_routine": [
-    "Write Clean Code",
-    "Debug Complex Systems",
-    "Learn New Tech",
-    "Push to Main (Carefully)"
-  ],
-  "2025_goals": {
-    "open_source": true,
-    "master_ai": true,
-    "build_impact": "High"
-  }
-}
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  🥇  2x RANK 1 HACKER  →  CodeXpress 6.0 & 7.0             │
+│  🏆  JAVA CHAMPION     →  Java Jumpstart Workshop          │
+│  🐍  PYTHON CERTIFIED  →  Python Pro Bootcamp              │
+│  🧩  DSA SPECIALIST    →  Data Structures & Algorithms      │
+│  👨‍💼  TEAM LEADER       →  Mini Group Project (2023-24)      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🎓 Certifications & Training
+
+- **Python Pro Bootcamp** - Prof. Chaitanya Rathod
+- **Data Structures & Algorithm Bootcamp** - Prof. Sanjana Khandalgaonkar
+- **Full Stack Web Development** - Self-Directed Learning
+
+### 💪 Competitive Programming
+
+- **CodeXpress 6.0** - Rank 1 🥇
+- **CodeXpress 7.0** - Rank 1 🥇
+- Active problem solver on LeetCode and other platforms
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=maruthudevendrar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maruthudevendrar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthudevendrar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+---
+
+## 💼 LEADERSHIP & IMPACT
+
+**Mini Group Project Leader** | *January 2023 - April 2024*
+
+Led a cross-functional team through the complete software development lifecycle:
+
+- 📋 **Project Management:** Orchestrated sprint planning, code reviews, and milestone tracking
+- 🤝 **Team Collaboration:** Fostered an environment of knowledge sharing and collective ownership
+- 🎯 **Technical Leadership:** Architected solutions and mentored team members on best practices
+- 📈 **Delivery Excellence:** Successfully delivered projects on time with high code quality standards
+
+---
+
+## 🎯 2025 ROADMAP
+
+```mermaid
+graph LR
+    A[Q1: Master System Design] --> B[Q2: Launch Open Source Project]
+    B --> C[Q3: Deep Dive into AI/ML]
+    C --> D[Q4: Build Production-Scale Apps]
+    
+    style A fill:#6366F1
+    style B fill:#8B5CF6
+    style C fill:#EC4899
+    style D fill:#10B981
+```
+
+**Current Focus Areas:**
+
+- 🤖 Integrating AI/ML capabilities into web applications
+- 🏗️ Mastering microservices architecture and distributed systems
+- 🌐 Contributing to meaningful open-source projects
+- 📚 Deep diving into system design patterns and scalability
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+I'm always open to interesting conversations and collaboration opportunities! Whether it's about technology, projects, or just exchanging ideas.
+
+**📧 Email:** maruthudevendrar@gmail.com  
+**📍 Location:** Mumbai, Maharashtra, India  
+**🌐 Portfolio:** [maruthu-devendrar.in](https://maruthu-devendrar.in)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthudevendrar)
+[![Twitter](https://img.shields.io/badge/Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maruthudevendrar)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maruthu-devendrar.in)
+
+<br>
+
+### 💬 "The best way to predict the future is to build it."
+
+<br>
+
+![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ If you find my work interesting, consider giving a star to my repositories! ⭐**
+
+![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+
+</div>
