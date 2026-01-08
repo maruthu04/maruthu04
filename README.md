@@ -265,9 +265,9 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthudevendrar)
-[![Twitter](https://img.shields.io/badge/Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maruthudevendrar)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maruthu-devendrar.in)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maruthu04)
+[![Twitter](https://img.shields.io/badge/Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maruthu04)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maruthu.in)
 
 <br>
 
