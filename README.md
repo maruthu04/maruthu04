@@ -182,7 +182,7 @@ An intuitive platform enabling users to track expenses, set budgets, and visuali
 
 **Tech:** React • Node.js • MongoDB • Chart.js
 
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthu04)
 
 </td>
 <td width="50%" valign="top">
@@ -201,7 +201,7 @@ A production-ready e-commerce application with complete order management and pay
 
 **Tech:** Flask • Python • SQLite • Stripe API
 
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthu04)
 
 </td>
 </tr>
@@ -261,7 +261,7 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
 
 **📧 Email:** maruthudevendrar@gmail.com  
 **📍 Location:** Mumbai, Maharashtra, India  
-**🌐 Portfolio:** [maruthu-devendrar.in](https://maruthu-devendrar.in)
+**🌐 Portfolio:** [maruthu-devendrar.in](https://maruthu.in)
 
 <br>
 
