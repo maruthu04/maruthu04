@@ -141,7 +141,7 @@ A full-stack crowdfunding ecosystem designed to handle high-concurrency payment 
 
 **Tech:** Next.js • MongoDB • Stripe • Tailwind CSS
 
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthu04)
 
 </td>
 <td width="50%" valign="top">
@@ -160,7 +160,7 @@ A robust backend service built with Spring Boot, featuring enterprise-grade arch
 
 **Tech:** Java • Spring Boot • PostgreSQL • Redis
 
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthudevendrar)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maruthu04)
 
 </td>
 </tr>
