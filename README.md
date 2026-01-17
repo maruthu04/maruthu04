@@ -261,7 +261,7 @@ I'm always open to interesting conversations and collaboration opportunities! Wh
 
 **📧 Email:** maruthudevendrar@gmail.com  
 **📍 Location:** Mumbai, Maharashtra, India  
-**🌐 Portfolio:** [maruthu-devendrar.in](https://maruthu.in)
+**🌐 Portfolio:** [maruthu.in](https://maruthu.in)
 
 <br>
 
