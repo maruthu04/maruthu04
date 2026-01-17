@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💫 MARUTHU DEVENDRAR
+# 💫 Maruthu Devendrar
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer+%7C+System+Architect;Crafting+Scalable+Solutions+%E2%9A%A1;Electronics+%26+Computer+Science+Student;Open+Source+Enthusiast+%F0%9F%8C%90;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
