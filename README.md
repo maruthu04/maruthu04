@@ -1,10 +1,12 @@
 <div align="center">
   
-<h1 align="center">
-  &lt;Maruthu Devendrar /&gt;
-</h1>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Software+Engineer" alt="Typing SVG" />
+<h1 align="center">Hi there, I'm Maruthu Devendrar 👋</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Software+Engineer" alt="Typing SVG" />
+  
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=MaruthuDevendrar&label=Profile%20Views&color=0e75b6&style=flat" alt="MaruthuDevendrar" /> 
+  </p>
 
 <br>
 
