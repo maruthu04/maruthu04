@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💫 Maruthu Devendrar
+![Maruthu Devendrar](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C9FF,92FE9D&height=250&section=header&text=Maruthu%20Devendrar&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=55&descAlign=50)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Software+Engineer" alt="Typing SVG" />
 
