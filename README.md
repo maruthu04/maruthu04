@@ -1,13 +1,7 @@
 <div align="center">
   
 <h1 align="center">Hi there, I'm Maruthu Devendrar 👋</h1>
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Software+Engineer" alt="Typing SVG" />
-  
-  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=MaruthuDevendrar&label=Profile%20Views&color=0e75b6&style=flat" alt="MaruthuDevendrar" /> 
-  </p>
-
 <br>
 
 ```ascii
@@ -19,7 +13,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/maruthu04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/maruthu01)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6366F1)](https://maruthu.in)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:maruthudevendrar@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/maruthudevendrar)
